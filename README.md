@@ -1,0 +1,2 @@
+# synchosts
+Synchronize /etc/hosts
